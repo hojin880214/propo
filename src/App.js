@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './banji.png';
 import './App.css';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          결혼해줄래?
         </a>
       </header>
     </div>

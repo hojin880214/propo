@@ -2,7 +2,7 @@ import './Propo.css';
 
 function Propo(){
     return(
-        <div className="Propo">a</div>
+        <div className="Propo"></div>
     );
 }
 
